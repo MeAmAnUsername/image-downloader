@@ -1,0 +1,24 @@
+{
+  "name": "image-downloader",
+  "version": "0.0.1",
+  "description": "A tool for backing up artwork from art sites",
+  "main": "./src/main/index.ts",
+  "bin": "./dist/index.js",
+  "scripts": {
+    "test": "ts-node node_modules/jasmine/bin/jasmine --config=jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeAmAnUsername/image-downloader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MeAmAnUsername/image-downloader/issues"
+  },
+  "homepage": "https://github.com/MeAmAnUsername/image-downloader#readme",
+  "devDependencies": {
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.1"
+  }
+}
