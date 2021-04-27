@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/MeAmAnUsername/image-downloader#readme",
   "dependencies": {
+    "@types/node": "^15.0.1",
     "diskdb": "^0.1.17"
   },
   "devDependencies": {
